@@ -14,10 +14,8 @@ minimal_mistakes_skin    : "neon" # "dark", "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : >- # this means to ignore newlines until "baseurl:"
-                              "[hàkkéń]"
-subtitle                 : >- # this means to ignore newlines until "baseurl:"
-                              "Do you smell own armpits?"
+title                    : >- [hàkkéń]
+subtitle                 : >- Do you smell own armpits?
 title_separator          : "-"
 name                     : #"Fareed Fauzi"
 description              : #"Do you smell own armpits?"
