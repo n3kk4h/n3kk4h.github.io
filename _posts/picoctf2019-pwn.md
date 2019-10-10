@@ -12,4 +12,4 @@ If you are new to the pwn challenge, you can read my notes first here
 
 ### Challenges
 
-- [Overflow 0] (/pico2018-overflow0.md)
+- [Overflow 0](/pico2018-overflow0.md)
