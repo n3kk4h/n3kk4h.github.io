@@ -6,7 +6,7 @@ author_profile: true
 ---
 Please support my other allies
 ------------------
-- [mucomplex](https://github.com/mucomplex)
+- [mucomplex](https://mucomplex.github.io/)
 - [yed](https://fareedfauzi.github.io)
 - [yuna](https://yunaranyancat.github.io/musubi/)
 - mreaiz
