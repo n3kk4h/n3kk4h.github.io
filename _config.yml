@@ -104,11 +104,11 @@ analytics:
 
 
 # Site Author
-#author:
-#  name             : "Fareed Fauzi"
-#  avatar           : /assets/images/finn.jpg
-#  bio              : "Capturing flags with friends since 2018 ❤️"
-#  location         : "Kuala Lumpur"
+author:
+  name             : "h44k3n [hàkkéń]"
+  avatar           : /assets/images/profile.jpg
+  bio              : "Only after disaster can we be resurrected...⚡"
+  location         : "Valhalla"
 #  email            : Fareedradzi@gmail.com
 #  links:
 #    - label: "Email"
