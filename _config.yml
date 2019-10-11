@@ -14,11 +14,11 @@ minimal_mistakes_skin    : "neon" # "dark", "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[hàkkéń]"
+title                    : "[hàkkéń] 発見"
 subtitle                 : #Do you smell own armpits?
 title_separator          : "-"
 name                     : #"Fareed Fauzi"
-description              : #"Do you smell own armpits?"
+description              : "> don't just sit there and do nothing SLOB!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : h44k3n\n[hàkkéń]
+  name             : h44k3n
   avatar           : /assets/images/profile.jpg
   bio              : "Only after disaster can we be resurrected...⚡"
   location         : "Valhalla"
