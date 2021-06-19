@@ -15,7 +15,7 @@ Server-side request forgery
 
 XSS
     <u>test</u>
-    <b>lgmstest</b>
+    <b>test</b>
     <script>alert(1)</script>
     </script/x>alert(1)</script/x>
     <svg/onload=alert(\"1\")
