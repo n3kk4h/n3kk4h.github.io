@@ -2,7 +2,7 @@
 title: "Struggle in Creating Nessus and Tenable Custom Audit Compliance File"
 date: "2022-08-16"
 layout: splash
-categories: vapt
+categories: VAPT
 permalink : vapt/customcomplianceaudit
 
 ---
